@@ -18,3 +18,6 @@
 .planned-card .photo-credit{font-size:12px;line-height:1.5;color:#777;margin-top:14px}
 .photo-credit a{text-decoration:underline}
 @media(max-width:600px){.planned-grid{grid-template-columns:1fr}}
+
+/* Display three planned articles per row on wider screens. */
+@media(min-width:1000px){.planned-grid{grid-template-columns:repeat(3,minmax(0,1fr));max-width:none}}
