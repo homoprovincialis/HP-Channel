@@ -124,20 +124,20 @@ HP CHANNEL — КАТАЛОГ ИЗОБРАЖЕНИЙ ДЛЯ ВИДЕО
     Условия: http://creativecommons.org/publicdomain/zero/1.0/deed.en
 
 18 - Тематика: Весы как символ рассмотрения доказательств
-    Что изображено (название оригинала): File:Balance - Scales of Justice (PSF).png
+    Что изображено (название оригинала): File:Dove of peace with olive branch on unbalanced scale of justice held by a woman with a sword in art, from - Zeichnet 8. Kriegsanleihe LCCN2004666193 (cropped).jpg
     Локальный файл: 18.jpg
-    Источник: https://commons.wikimedia.org/wiki/File:Balance_-_Scales_of_Justice_(PSF).png
-    Автор: Pearson Scott Foresman
+    Источник: https://commons.wikimedia.org/wiki/File:Dove_of_peace_with_olive_branch_on_unbalanced_scale_of_justice_held_by_a_woman_with_a_sword_in_art,_from_-_Zeichnet_8._Kriegsanleihe_LCCN2004666193_(cropped).jpg
+    Автор: Unknown authorUnknown author
     Лицензия: Public domain
     Условия: 
 
 19 - Тематика: Участники открытой общественной встречи за столами
-    Что изображено (название оригинала): File:1928 Tennessee Volunteers football team.jpg
+    Что изображено (название оригинала): File:Igala Wikipedia community November meeting 01.png
     Локальный файл: 19.jpg
-    Источник: https://commons.wikimedia.org/wiki/File:1928_Tennessee_Volunteers_football_team.jpg
-    Автор: The (Nashville) Tennessean
-    Лицензия: Public domain
-    Условия: 
+    Источник: https://commons.wikimedia.org/wiki/File:Igala_Wikipedia_community_November_meeting_01.png
+    Автор: AgnesAbah
+    Лицензия: CC0
+    Условия: http://creativecommons.org/publicdomain/zero/1.0/deed.en
 
 20 - Тематика: Школьники выполняют письменное тестовое задание
     Что изображено (название оригинала): File:Elementary school female students exam, Vazvan - 1966.jpg
@@ -172,12 +172,12 @@ HP CHANNEL — КАТАЛОГ ИЗОБРАЖЕНИЙ ДЛЯ ВИДЕО
     Условия: 
 
 24 - Тематика: Очередь пассажиров на иммиграционном контроле
-    Что изображено (название оригинала): File:Passengers departing plane at Kano Airport.png
+    Что изображено (название оригинала): File:Passengers arriving at Sandefjord Airport, Torp, Noway.jpg
     Локальный файл: 24.jpg
-    Источник: https://commons.wikimedia.org/wiki/File:Passengers_departing_plane_at_Kano_Airport.png
-    Автор: Forman, Harrison
-    Лицензия: Public domain
-    Условия: 
+    Источник: https://commons.wikimedia.org/wiki/File:Passengers_arriving_at_Sandefjord_Airport,_Torp,_Noway.jpg
+    Автор: Ridiculopathy
+    Лицензия: CC0
+    Условия: http://creativecommons.org/publicdomain/zero/1.0/deed.en
 
 25 - Тематика: Мемориал отмены рабства во французском Нанте
     Что изображено (название оригинала): File:2026-03-26 Khalilur Rahman speech UNGA, Victims of Slavery Remembrance.jpg
@@ -212,18 +212,18 @@ HP CHANNEL — КАТАЛОГ ИЗОБРАЖЕНИЙ ДЛЯ ВИДЕО
     Условия: 
 
 29 - Тематика: Ученики во время занятия в классе
-    Что изображено (название оригинала): File:Base bareMetal (Blender classroom demo).png
+    Что изображено (название оригинала): File:Afghan students at Bamyan.jpg
     Локальный файл: 29.jpg
-    Источник: https://commons.wikimedia.org/wiki/File:Base_bareMetal_(Blender_classroom_demo).png
-    Автор: Christophe Seux
-    Лицензия: CC0
-    Условия: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    Источник: https://commons.wikimedia.org/wiki/File:Afghan_students_at_Bamyan.jpg
+    Автор: Sgt. Ken Scar (U.S. Armed Forces)
+    Лицензия: Public domain
+    Условия: 
 
 30 - Тематика: Занятие для добровольцев Wikimedia
-    Что изображено (название оригинала): File:Caucasus Greek volunteers in the Greek army.jpg
+    Что изображено (название оригинала): File:2017-10-06 Hasanul Haq Inu speech training workshop martial art organizers judges trainers referees National Sports Council auditorium Dhaka (PID-0047453).jpg
     Локальный файл: 30.jpg
-    Источник: https://commons.wikimedia.org/wiki/File:Caucasus_Greek_volunteers_in_the_Greek_army.jpg
-    Автор: Unknown authorUnknown author
+    Источник: https://commons.wikimedia.org/wiki/File:2017-10-06_Hasanul_Haq_Inu_speech_training_workshop_martial_art_organizers_judges_trainers_referees_National_Sports_Council_auditorium_Dhaka_(PID-0047453).jpg
+    Автор: Press Information Department
     Лицензия: Public domain
     Условия: 
 
