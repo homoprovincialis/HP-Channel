@@ -54,7 +54,7 @@
   "newImages": [
     {
       "n": 15,
-      "query": "intitle:community meeting",
+      "query": "intitle:meeting people",
       "ru": "Люди обсуждают общие вопросы за столом",
       "en": "People holding a group discussion around a table",
       "mustInclude": [
