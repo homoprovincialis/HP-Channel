@@ -86,6 +86,8 @@ def find_commons(item, taken):
                 continue
             if not any(word.lower() in title.lower() for word in item.get("mustInclude", [])):
                 continue
+            if item.get("onlyJpeg") and not title.lower().endswith((".jpg",".jpeg")):
+                continue
             if title in taken or not EXT.search(title):
                 continue
             if info.get("width",0) < 700 or info.get("height",0) < 400:
