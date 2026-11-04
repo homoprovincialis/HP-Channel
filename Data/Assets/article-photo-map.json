@@ -197,7 +197,7 @@
     },
     {
       "n": 29,
-      "query": "intitle:students classroom",
+      "query": "intitle:students",
       "ru": "Ученики во время занятия в классе",
       "en": "Students studying in a classroom",
       "mustInclude": [
@@ -207,7 +207,7 @@
     },
     {
       "n": 30,
-      "query": "intitle:volunteer workshop",
+      "query": "intitle:workshop",
       "ru": "Занятие для добровольцев Wikimedia",
       "en": "A Wikimedia volunteer workshop",
       "mustInclude": [
