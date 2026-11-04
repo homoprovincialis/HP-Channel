@@ -54,12 +54,12 @@
   "newImages": [
     {
       "n": 15,
-      "query": "intitle:meeting people",
+      "query": "intitle:community meeting",
       "ru": "Люди обсуждают общие вопросы за столом",
       "en": "People holding a group discussion around a table",
       "mustInclude": [
-        "meeting",
-        "discussion"
+        "community",
+        "meeting"
       ]
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "n": 18,
-      "query": "intitle:scales justice",
+      "query": "intitle:scales of justice",
       "ru": "Весы как символ рассмотрения доказательств",
       "en": "Scales used as a symbol of justice",
       "mustInclude": [
@@ -95,12 +95,11 @@
     },
     {
       "n": 19,
-      "query": "intitle:workshop",
+      "query": "intitle:volunteers",
       "ru": "Участники открытой общественной встречи за столами",
       "en": "People participating in a public workshop",
       "mustInclude": [
-        "workshop",
-        "meeting"
+        "volunteer"
       ]
     },
     {
@@ -146,21 +145,21 @@
     },
     {
       "n": 24,
-      "query": "intitle:immigration airport",
+      "query": "intitle:airport passengers",
       "ru": "Очередь пассажиров на иммиграционном контроле",
       "en": "Travelers queuing for immigration at an airport",
       "mustInclude": [
-        "immigration",
-        "passport"
+        "airport",
+        "passengers"
       ]
     },
     {
       "n": 25,
-      "query": "intitle:abolition slavery",
+      "query": "intitle:slavery memorial",
       "ru": "Мемориал отмены рабства во французском Нанте",
       "en": "Memorial to the abolition of slavery in Nantes",
       "mustInclude": [
-        "abolition",
+        "memorial",
         "slavery"
       ]
     },
@@ -197,22 +196,19 @@
     },
     {
       "n": 29,
-      "query": "intitle:students",
+      "query": "intitle:classroom",
       "ru": "Ученики во время занятия в классе",
       "en": "Students studying in a classroom",
       "mustInclude": [
-        "students",
         "classroom"
       ]
     },
     {
       "n": 30,
-      "query": "intitle:training",
+      "query": "intitle:volunteers",
       "ru": "Занятие для добровольцев Wikimedia",
       "en": "A Wikimedia volunteer workshop",
       "mustInclude": [
-        "training",
-        "workshop",
         "volunteer"
       ]
     },
