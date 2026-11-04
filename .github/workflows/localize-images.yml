@@ -1,0 +1,36 @@
+name: Localize website photographs
+
+on:
+  push:
+    branches:
+      - fix/store-website-images-locally
+    paths:
+      - .github/workflows/localize-images.yml
+      - Data/Assets/localize_site_images.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  download-and-localize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout this branch
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Fetch and verify photo files, then rewrite local HTML links
+        run: python3 Data/Assets/localize_site_images.py
+      - name: Commit only actual photos and verified reference changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- '*.html' 'Articles/*.html' 'Data/Images/Images for Video'
+          if ! git diff --cached --quiet; then
+            git commit -m "Save accessible website photos locally and switch verified image paths"
+            git push
+          fi
+      - name: Print verification report
+        run: cat 'Data/Images/Images for Video/download-report.txt'
