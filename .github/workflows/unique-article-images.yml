@@ -1,0 +1,36 @@
+name: Assign unique local article photographs
+
+on:
+  push:
+    branches:
+      - fix/unique-local-article-images
+    paths:
+      - .github/workflows/unique-article-images.yml
+      - Data/Assets/assign_unique_article_images.py
+      - Data/Assets/article-photo-map.json
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  assign-photos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Pillow for real JPEG decoding
+        run: python3 -m pip install Pillow
+      - name: Download, verify, assign and save unique images
+        run: python3 Data/Assets/assign_unique_article_images.py
+      - name: Commit only complete and verified images and HTML changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- '*.html' 'Data/Images/Images for Video'
+          if ! git diff --cached --quiet; then
+            git commit -m "Save and assign 31 unique verified local article photographs"
+            git push
+          fi
+      - name: Show verification
+        run: cat 'Data/Images/Images for Video/verification.txt'
