@@ -84,6 +84,8 @@ def find_commons(item, taken):
                 continue
             if any(bad in (license_name+" "+usage) for bad in EXCLUDED):
                 continue
+            if not any(word.lower() in title.lower() for word in item.get("mustInclude", [])):
+                continue
             if title in taken or not EXT.search(title):
                 continue
             if info.get("width",0) < 700 or info.get("height",0) < 400:
