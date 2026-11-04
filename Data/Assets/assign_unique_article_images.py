@@ -170,14 +170,15 @@ def main():
     for path,content in replacements.items():
         path.write_text(content,encoding="utf-8")
 
-    old_catalog = (IMAGES/"catalog.txt").read_text(encoding="utf-8")
+    old_catalog = (IMAGES/"catalog.txt").read_text(encoding="utf-8").split("ДОПОЛНИТЕЛЬНЫЕ ФОТОГРАФИИ — ИСТОЧНИКИ И ЛИЦЕНЗИИ")[0]
     old_catalog = old_catalog.replace("СЛЕДУЮЩИЙ СВОБОДНЫЙ НОМЕР: 15","СЛЕДУЮЩИЙ СВОБОДНЫЙ НОМЕР: 32")
     old_catalog = old_catalog.replace("Номера 1–14 закреплены", "Номера 1–31 закреплены")
     old_catalog = old_catalog.replace("все 14 фотографий", "все 31 фотография")
     old_catalog = old_catalog.replace("как 1.jpg–14.jpg", "как 1.jpg–31.jpg")
     additions = ["", "", "ДОПОЛНИТЕЛЬНЫЕ ФОТОГРАФИИ — ИСТОЧНИКИ И ЛИЦЕНЗИИ", ""]
     for n, d in sorted(metadata.items()):
-        additions.extend([f"{n} - {d['description']}",
+        additions.extend([f"{n} - Тематика: {d['description']}",
+                          f"    Что изображено (название оригинала): {d['file']}",
                           f"    Локальный файл: {n}.jpg",
                           f"    Источник: {d['source']}",
                           f"    Автор: {d['author']}",
