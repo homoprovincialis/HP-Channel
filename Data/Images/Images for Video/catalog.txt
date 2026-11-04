@@ -123,11 +123,11 @@ HP CHANNEL — КАТАЛОГ ИЗОБРАЖЕНИЙ ДЛЯ ВИДЕО
     Лицензия: CC0
     Условия: http://creativecommons.org/publicdomain/zero/1.0/deed.en
 
-18 - Тематика: Судебный молоток как символ правосудия
-    Что изображено (название оригинала): File:Gavel, mangårdsbyggnaden, Magnusgården, Yxskaftkälen 2002.jpg
+18 - Тематика: Зал судебного заседания
+    Что изображено (название оригинала): File:Beverley Guildhall Courtroom.jpg
     Локальный файл: 18.jpg
-    Источник: https://commons.wikimedia.org/wiki/File:Gavel,_mang%C3%A5rdsbyggnaden,_Magnusg%C3%A5rden,_Yxskaftk%C3%A4len_2002.jpg
-    Автор: Cucumber
+    Источник: https://commons.wikimedia.org/wiki/File:Beverley_Guildhall_Courtroom.jpg
+    Автор: Michael D Beckwith
     Лицензия: CC0
     Условия: http://creativecommons.org/publicdomain/zero/1.0/deed.en
 
@@ -156,9 +156,9 @@ HP CHANNEL — КАТАЛОГ ИЗОБРАЖЕНИЙ ДЛЯ ВИДЕО
     Условия: 
 
 22 - Тематика: Люди разговаривают, сидя в кругу
-    Что изображено (название оригинала): File:Discussion of the Voting Rights Act of 1965 held at the LBJ Library on March 10, 2026 - 15.jpg
+    Что изображено (название оригинала): File:Discussion of the Voting Rights Act of 1965 held at the LBJ Library on March 10, 2026 - 1.jpg
     Локальный файл: 22.jpg
-    Источник: https://commons.wikimedia.org/wiki/File:Discussion_of_the_Voting_Rights_Act_of_1965_held_at_the_LBJ_Library_on_March_10,_2026_-_15.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:Discussion_of_the_Voting_Rights_Act_of_1965_held_at_the_LBJ_Library_on_March_10,_2026_-_1.jpg
     Автор: LBJLibraryNow
     Лицензия: Public domain
     Условия: 
@@ -172,12 +172,12 @@ HP CHANNEL — КАТАЛОГ ИЗОБРАЖЕНИЙ ДЛЯ ВИДЕО
     Условия: 
 
 24 - Тематика: Очередь пассажиров на иммиграционном контроле
-    Что изображено (название оригинала): File:Passengers arriving at Sandefjord Airport, Torp, Noway.jpg
+    Что изображено (название оригинала): File:Passengers departing plane at Kano Airport.png
     Локальный файл: 24.jpg
-    Источник: https://commons.wikimedia.org/wiki/File:Passengers_arriving_at_Sandefjord_Airport,_Torp,_Noway.jpg
-    Автор: Ridiculopathy
-    Лицензия: CC0
-    Условия: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    Источник: https://commons.wikimedia.org/wiki/File:Passengers_departing_plane_at_Kano_Airport.png
+    Автор: Forman, Harrison
+    Лицензия: Public domain
+    Условия: 
 
 25 - Тематика: Мемориал отмены рабства во французском Нанте
     Что изображено (название оригинала): File:2026-03-26 Khalilur Rahman speech UNGA, Victims of Slavery Remembrance.jpg
