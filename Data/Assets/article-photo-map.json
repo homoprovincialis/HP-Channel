@@ -54,156 +54,105 @@
   "newImages": [
     {
       "n": 15,
-      "file": "People seated at table participating in group discussion during meeting.jpg",
+      "query": "community meeting people sitting around table discussion photograph",
       "ru": "Люди обсуждают общие вопросы за столом",
-      "en": "People holding a group discussion around a table",
-      "author": "Harless Todd / U.S. Fish and Wildlife Service",
-      "license": "Public domain",
-      "source": "https://commons.wikimedia.org/wiki/File:People_seated_at_table_participating_in_group_discussion_during_meeting.jpg"
+      "en": "People holding a group discussion around a table"
     },
     {
       "n": 16,
-      "file": "Visual consent image.jpg",
+      "query": "person signing consent form photograph",
       "ru": "Человек с письменным согласием на публикацию фотографии",
-      "en": "A person showing a written consent statement",
-      "author": "Canoe1967",
-      "license": "CC BY 3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Visual_consent_image.jpg"
+      "en": "A person showing a written consent statement"
     },
     {
       "n": 17,
-      "file": "Part of a bookshelf containing books by ancient philosophers (1.1).jpg",
+      "query": "ancient philosophy books bookshelf photograph",
       "ru": "Книги античных философов на полке",
-      "en": "Books by ancient philosophers on a bookshelf",
-      "author": "Roman Eisele",
-      "license": "CC BY-SA 4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Part_of_a_bookshelf_containing_books_by_ancient_philosophers_(1.1).jpg"
+      "en": "Books by ancient philosophers on a bookshelf"
     },
     {
       "n": 18,
-      "file": "Scales of justice (26415697401).jpg",
+      "query": "justice scales photograph",
       "ru": "Весы как символ рассмотрения доказательств",
-      "en": "Scales used as a symbol of justice",
-      "author": "Thomas Quine",
-      "license": "CC BY 2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Scales_of_justice_(26415697401).jpg"
+      "en": "Scales used as a symbol of justice"
     },
     {
       "n": 19,
-      "file": "People sitting at tables.jpg",
+      "query": "community workshop people sitting around table photograph",
       "ru": "Участники открытой общественной встречи за столами",
-      "en": "People participating in a public workshop",
-      "author": "Heplcentcom",
-      "license": "CC BY-SA 4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:People_sitting_at_tables.jpg"
+      "en": "People participating in a public workshop"
     },
     {
       "n": 20,
-      "file": "Bal Uddhar Students taking exam .jpg",
+      "query": "students taking exam classroom photograph",
       "ru": "Школьники выполняют письменное тестовое задание",
-      "en": "Students taking an exam",
-      "author": "Baluddhar",
-      "license": "CC BY-SA 4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Bal_Uddhar_Students_taking_exam_.jpg"
+      "en": "Students taking an exam"
     },
     {
       "n": 21,
-      "file": "Two college students debating.jpg",
+      "query": "students debate discussion photograph",
       "ru": "Два студента участвуют в дебатах",
-      "en": "Two college students debating",
-      "author": "Ryanx7",
-      "license": "CC BY-SA 4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Two_college_students_debating.jpg"
+      "en": "Two college students debating"
     },
     {
       "n": 22,
-      "file": "Group of people sitting in a circle talking (53013226338).jpg",
+      "query": "people circle conversation photograph",
       "ru": "Люди разговаривают, сидя в кругу",
-      "en": "People sitting in a circle and talking",
-      "author": "Jonathan D. Mallory / BLM Utah",
-      "license": "Public domain",
-      "source": "https://commons.wikimedia.org/wiki/File:Group_of_people_sitting_in_a_circle_talking_(53013226338).jpg"
+      "en": "People sitting in a circle and talking"
     },
     {
       "n": 23,
-      "file": "Flood Relief Volunteer Event Caption (9173520).jpg",
+      "query": "volunteers disaster relief photograph",
       "ru": "Добровольцы помогают пострадавшим от наводнения",
-      "en": "Volunteers working at a flood relief event",
-      "author": "James Salellas / U.S. Air Force",
-      "license": "Public domain",
-      "source": "https://commons.wikimedia.org/wiki/File:Flood_Relief_Volunteer_Event_Caption_(9173520).jpg"
+      "en": "Volunteers working at a flood relief event"
     },
     {
       "n": 24,
-      "file": "Immigration queue at Hong Kong International Airport.jpg",
+      "query": "airport immigration travelers queue photograph",
       "ru": "Очередь пассажиров на иммиграционном контроле",
-      "en": "Travelers queuing for immigration at an airport",
-      "author": "Benlisquare",
-      "license": "CC BY-SA 4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Immigration_queue_at_Hong_Kong_International_Airport.jpg"
+      "en": "Travelers queuing for immigration at an airport"
     },
     {
       "n": 25,
-      "file": "Mémorial de l'abolition de l'esclavage.jpg",
+      "query": "abolition of slavery memorial Nantes photograph",
       "ru": "Мемориал отмены рабства во французском Нанте",
-      "en": "Memorial to the abolition of slavery in Nantes",
-      "author": "Jean-Marc Ayrault",
-      "license": "CC BY 2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:M%C3%A9morial_de_l'abolition_de_l'esclavage.jpg"
+      "en": "Memorial to the abolition of slavery in Nantes"
     },
     {
       "n": 26,
-      "file": "Tallinna raekoja raesaal. Tallinn Town Hall Council Chamber.jpg",
+      "query": "Tallinn town hall council chamber photograph",
       "ru": "Средневековый зал городского совета Таллина",
-      "en": "Medieval council chamber of Tallinn Town Hall",
-      "author": "Raekoda",
-      "license": "CC BY-SA 4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Tallinna_raekoja_raesaal._Tallinn_Town_Hall_Council_Chamber.jpg"
+      "en": "Medieval council chamber of Tallinn Town Hall"
     },
     {
       "n": 27,
-      "file": "Singapore Changi Airport Terminal 1 Arrival Immigration.jpg",
+      "query": "passport control airport photograph",
       "ru": "Пункт паспортного контроля аэропорта Сингапура",
-      "en": "Arrival immigration area at Singapore Changi Airport",
-      "author": "Exec8",
-      "license": "CC BY-SA 4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Singapore_Changi_Airport_Terminal_1_Arrival_Immigration.jpg"
+      "en": "Arrival immigration area at Singapore Changi Airport"
     },
     {
       "n": 28,
-      "file": "Cern datacenter.jpg",
+      "query": "CERN data center server racks photograph",
       "ru": "Серверные стойки центра обработки данных CERN",
-      "en": "Server racks at CERN data center",
-      "author": "Hugovanmeijeren",
-      "license": "CC BY-SA 3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Cern_datacenter.jpg"
+      "en": "Server racks at CERN data center"
     },
     {
       "n": 29,
-      "file": "Students in classroom.jpg",
+      "query": "students in classroom learning photograph",
       "ru": "Ученики во время занятия в классе",
-      "en": "Students studying in a classroom",
-      "author": "Esthee2010",
-      "license": "CC BY-SA 4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Students_in_classroom.jpg"
+      "en": "Students studying in a classroom"
     },
     {
       "n": 30,
-      "file": "A workshop training for Wikimedia volunteers.jpg",
+      "query": "volunteers workshop training photograph",
       "ru": "Занятие для добровольцев Wikimedia",
-      "en": "A Wikimedia volunteer workshop",
-      "author": "Musahfm",
-      "license": "CC BY-SA 4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:A_workshop_training_for_Wikimedia_volunteers.jpg"
+      "en": "A Wikimedia volunteer workshop"
     },
     {
       "n": 31,
-      "file": "Person writing in a notebook while sitting at a desk.jpg",
+      "query": "person writing notes desk laptop photograph",
       "ru": "Человек читает и делает записи рядом с компьютером",
-      "en": "A person writing notes while working with a laptop",
-      "author": "Shixart1985",
-      "license": "CC BY 2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Person_writing_in_a_notebook_while_sitting_at_a_desk.jpg"
+      "en": "A person writing notes while working with a laptop"
     }
   ]
 }
