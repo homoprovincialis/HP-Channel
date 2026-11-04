@@ -123,13 +123,13 @@ HP CHANNEL — КАТАЛОГ ИЗОБРАЖЕНИЙ ДЛЯ ВИДЕО
     Лицензия: CC0
     Условия: http://creativecommons.org/publicdomain/zero/1.0/deed.en
 
-18 - Тематика: Весы как символ рассмотрения доказательств
-    Что изображено (название оригинала): File:Dove of peace with olive branch on unbalanced scale of justice held by a woman with a sword in art, from - Zeichnet 8. Kriegsanleihe LCCN2004666193 (cropped).jpg
+18 - Тематика: Судебный молоток как символ правосудия
+    Что изображено (название оригинала): File:Gavel, mangårdsbyggnaden, Magnusgården, Yxskaftkälen 2002.jpg
     Локальный файл: 18.jpg
-    Источник: https://commons.wikimedia.org/wiki/File:Dove_of_peace_with_olive_branch_on_unbalanced_scale_of_justice_held_by_a_woman_with_a_sword_in_art,_from_-_Zeichnet_8._Kriegsanleihe_LCCN2004666193_(cropped).jpg
-    Автор: Unknown authorUnknown author
-    Лицензия: Public domain
-    Условия: 
+    Источник: https://commons.wikimedia.org/wiki/File:Gavel,_mang%C3%A5rdsbyggnaden,_Magnusg%C3%A5rden,_Yxskaftk%C3%A4len_2002.jpg
+    Автор: Cucumber
+    Лицензия: CC0
+    Условия: http://creativecommons.org/publicdomain/zero/1.0/deed.en
 
 19 - Тематика: Участники открытой общественной встречи за столами
     Что изображено (название оригинала): File:Igala Wikipedia community November meeting 01.png
@@ -220,9 +220,9 @@ HP CHANNEL — КАТАЛОГ ИЗОБРАЖЕНИЙ ДЛЯ ВИДЕО
     Условия: 
 
 30 - Тематика: Занятие для добровольцев Wikimedia
-    Что изображено (название оригинала): File:2017-10-06 Hasanul Haq Inu speech training workshop martial art organizers judges trainers referees National Sports Council auditorium Dhaka (PID-0047453).jpg
+    Что изображено (название оригинала): File:Asadul Habib Dulu addressing a training of trainers workshop on earthquake disaster management at the Department of Disaster Management in Dhaka 2026-09-03.jpg
     Локальный файл: 30.jpg
-    Источник: https://commons.wikimedia.org/wiki/File:2017-10-06_Hasanul_Haq_Inu_speech_training_workshop_martial_art_organizers_judges_trainers_referees_National_Sports_Council_auditorium_Dhaka_(PID-0047453).jpg
+    Источник: https://commons.wikimedia.org/wiki/File:Asadul_Habib_Dulu_addressing_a_training_of_trainers_workshop_on_earthquake_disaster_management_at_the_Department_of_Disaster_Management_in_Dhaka_2026-09-03.jpg
     Автор: Press Information Department
     Лицензия: Public domain
     Условия: 
