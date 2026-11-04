@@ -1,0 +1,5 @@
+Validated JPEG images: 31
+Unique assigned images: 31
+HTML images switched to local assets: 62
+Pages changed: 18
+All files decoded using Pillow; no blank images; no repeated article photos.

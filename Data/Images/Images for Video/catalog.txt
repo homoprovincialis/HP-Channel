@@ -2,9 +2,9 @@ HP CHANNEL — КАТАЛОГ ИЗОБРАЖЕНИЙ ДЛЯ ВИДЕО
 
 Этот каталог составлен ТОЛЬКО из фотографий, реально включённых в HTML-страницы сайта HP Channel (русская версия).
 Повторное использование одной фотографии на разных страницах не создаёт новый номер.
-Номера 1–14 закреплены за исходными изображениями; разные параметры размера (width=750/900) не считаются разными фотографиями.
+Номера 1–31 закреплены за исходными изображениями; разные параметры размера (width=750/900) не считаются разными фотографиями.
 
-СТАТУС: все 14 фотографий сохранены физически в этой папке как 1.jpg–14.jpg.
+СТАТУС: все 31 фотография сохранены физически в этой папке как 1.jpg–31.jpg.
 На страницах HP Channel фотографии подключены по локальным относительным путям и отображаются без сети после скачивания всего сайта.
 Ссылки на оригиналы ниже сохранены только для указания источников. Данные об авторах и лицензиях требуют проверки по первоисточникам перед публикацией видео.
 
@@ -92,6 +92,145 @@ HP CHANNEL — КАТАЛОГ ИЗОБРАЖЕНИЙ ДЛЯ ВИДЕО
     Локальный файл: 14.jpg
     Источник: https://commons.wikimedia.org/wiki/Special:FilePath/Dcentre%20racks.jpg?width=900
 
-СЛЕДУЮЩИЙ СВОБОДНЫЙ НОМЕР: 15
+СЛЕДУЮЩИЙ СВОБОДНЫЙ НОМЕР: 32
 
 При добавлении нового изображения: убедиться, что оно уже не есть в каталоге; дать следующий номер; записать, что на нём видно, для каких тем подходит, где используется, источник и условия использования. Не менять номера существующих изображений.
+
+
+ДОПОЛНИТЕЛЬНЫЕ ФОТОГРАФИИ — ИСТОЧНИКИ И ЛИЦЕНЗИИ
+
+15 - Тематика: Люди обсуждают общие вопросы за столом
+    Что изображено (название оригинала): File:Dean Rusk, Lyndon B. Johnson and Robert McNamara in Cabinet Room meeting February 1968.jpg
+    Локальный файл: 15.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:Dean_Rusk,_Lyndon_B._Johnson_and_Robert_McNamara_in_Cabinet_Room_meeting_February_1968.jpg
+    Автор: Yoichi Okamoto
+    Лицензия: Public domain
+    Условия: 
+
+16 - Тематика: Человек с письменным согласием на публикацию фотографии
+    Что изображено (название оригинала): File:Consenting adults In public.jpg
+    Локальный файл: 16.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:Consenting_adults_In_public.jpg
+    Автор: LSE Library
+    Лицензия: Public domain
+    Условия: 
+
+17 - Тематика: Книги античных философов на полке
+    Что изображено (название оригинала): File:A small bookshelf.jpg
+    Локальный файл: 17.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:A_small_bookshelf.jpg
+    Автор: C.Hartman23
+    Лицензия: CC0
+    Условия: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+18 - Тематика: Зал судебного заседания
+    Что изображено (название оригинала): File:Beverley Guildhall Courtroom.jpg
+    Локальный файл: 18.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:Beverley_Guildhall_Courtroom.jpg
+    Автор: Michael D Beckwith
+    Лицензия: CC0
+    Условия: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+19 - Тематика: Участники открытой общественной встречи за столами
+    Что изображено (название оригинала): File:Igala Wikipedia community November meeting 01.png
+    Локальный файл: 19.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:Igala_Wikipedia_community_November_meeting_01.png
+    Автор: AgnesAbah
+    Лицензия: CC0
+    Условия: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+20 - Тематика: Школьники выполняют письменное тестовое задание
+    Что изображено (название оригинала): File:Elementary school female students exam, Vazvan - 1966.jpg
+    Локальный файл: 20.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:Elementary_school_female_students_exam,_Vazvan_-_1966.jpg
+    Автор: Unknown authorUnknown author
+    Лицензия: Public domain
+    Условия: 
+
+21 - Тематика: Два студента участвуют в дебатах
+    Что изображено (название оригинала): File:""Sunday October 28 Northwestern University Students in Great Political Debate"", (1928) (NBY 7111).jpg
+    Локальный файл: 21.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:%22%22Sunday_October_28_Northwestern_University_Students_in_Great_Political_Debate%22%22,_(1928)_(NBY_7111).jpg
+    Автор: Unknown authorUnknown author
+    Лицензия: Public domain
+    Условия: 
+
+22 - Тематика: Люди разговаривают, сидя в кругу
+    Что изображено (название оригинала): File:Discussion of the Voting Rights Act of 1965 held at the LBJ Library on March 10, 2026 - 1.jpg
+    Локальный файл: 22.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:Discussion_of_the_Voting_Rights_Act_of_1965_held_at_the_LBJ_Library_on_March_10,_2026_-_1.jpg
+    Автор: LBJLibraryNow
+    Лицензия: Public domain
+    Условия: 
+
+23 - Тематика: Добровольцы помогают пострадавшим от наводнения
+    Что изображено (название оригинала): File:Camp Eggers volunteers assist with Afghan flood relief efforts 130816-N-GV919-031.jpg
+    Локальный файл: 23.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:Camp_Eggers_volunteers_assist_with_Afghan_flood_relief_efforts_130816-N-GV919-031.jpg
+    Автор: Lt.j.g. Jacob Joy
+    Лицензия: Public domain
+    Условия: 
+
+24 - Тематика: Очередь пассажиров на иммиграционном контроле
+    Что изображено (название оригинала): File:Passengers departing plane at Kano Airport.png
+    Локальный файл: 24.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:Passengers_departing_plane_at_Kano_Airport.png
+    Автор: Forman, Harrison
+    Лицензия: Public domain
+    Условия: 
+
+25 - Тематика: Мемориал отмены рабства во французском Нанте
+    Что изображено (название оригинала): File:2026-03-26 Khalilur Rahman speech UNGA, Victims of Slavery Remembrance.jpg
+    Локальный файл: 25.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:2026-03-26_Khalilur_Rahman_speech_UNGA,_Victims_of_Slavery_Remembrance.jpg
+    Автор: Press Information Department
+    Лицензия: Public domain
+    Условия: 
+
+26 - Тематика: Средневековый зал городского совета Таллина
+    Что изображено (название оригинала): File:Bristol Council House Chamber 1899.jpg
+    Локальный файл: 26.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:Bristol_Council_House_Chamber_1899.jpg
+    Автор: Samuel Loxton (artist)
+    Лицензия: Public domain
+    Условия: 
+
+27 - Тематика: Пункт паспортного контроля аэропорта Сингапура
+    Что изображено (название оригинала): File:201505 ben gurion airport automated passport control 01.jpg
+    Локальный файл: 27.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:201505_ben_gurion_airport_automated_passport_control_01.jpg
+    Автор: Rakoon
+    Лицензия: CC0
+    Условия: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+28 - Тематика: Серверные стойки центра обработки данных CERN
+    Что изображено (название оригинала): File:EFTA00002522 - Cluttered server rack filled with colorful cables and networking equipment.jpg
+    Локальный файл: 28.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:EFTA00002522_-_Cluttered_server_rack_filled_with_colorful_cables_and_networking_equipment.jpg
+    Автор: Federal Bureau of Investigation
+    Лицензия: Public domain
+    Условия: 
+
+29 - Тематика: Ученики во время занятия в классе
+    Что изображено (название оригинала): File:Afghan students at Bamyan.jpg
+    Локальный файл: 29.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:Afghan_students_at_Bamyan.jpg
+    Автор: Sgt. Ken Scar (U.S. Armed Forces)
+    Лицензия: Public domain
+    Условия: 
+
+30 - Тематика: Занятие для добровольцев Wikimedia
+    Что изображено (название оригинала): File:Asadul Habib Dulu addressing a training of trainers workshop on earthquake disaster management at the Department of Disaster Management in Dhaka 2026-09-03.jpg
+    Локальный файл: 30.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:Asadul_Habib_Dulu_addressing_a_training_of_trainers_workshop_on_earthquake_disaster_management_at_the_Department_of_Disaster_Management_in_Dhaka_2026-09-03.jpg
+    Автор: Press Information Department
+    Лицензия: Public domain
+    Условия: 
+
+31 - Тематика: Человек читает и делает записи рядом с компьютером
+    Что изображено (название оригинала): File:Businessman working and writing notes in office (Unsplash).jpg
+    Локальный файл: 31.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:Businessman_working_and_writing_notes_in_office_(Unsplash).jpg
+    Автор: JESHOOTS.COM jeshoots
+    Лицензия: CC0
+    Условия: http://creativecommons.org/publicdomain/zero/1.0/deed.en
