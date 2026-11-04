@@ -91,15 +91,17 @@
       "mustInclude": [
         "scales",
         "justice"
-      ]
+      ],
+      "onlyJpeg": true
     },
     {
       "n": 19,
-      "query": "intitle:volunteers",
+      "query": "intitle:Igala Wikipedia community November meeting",
       "ru": "Участники открытой общественной встречи за столами",
       "en": "People participating in a public workshop",
       "mustInclude": [
-        "volunteer"
+        "Igala",
+        "meeting"
       ]
     },
     {
@@ -196,20 +198,21 @@
     },
     {
       "n": 29,
-      "query": "intitle:classroom",
+      "query": "intitle:Afghan students in Bamyan",
       "ru": "Ученики во время занятия в классе",
       "en": "Students studying in a classroom",
       "mustInclude": [
-        "classroom"
+        "students"
       ]
     },
     {
       "n": 30,
-      "query": "intitle:volunteers",
+      "query": "intitle:training of trainers workshop",
       "ru": "Занятие для добровольцев Wikimedia",
       "en": "A Wikimedia volunteer workshop",
       "mustInclude": [
-        "volunteer"
+        "training",
+        "workshop"
       ]
     },
     {
