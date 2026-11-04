@@ -207,12 +207,13 @@
     },
     {
       "n": 30,
-      "query": "intitle:workshop",
+      "query": "intitle:training",
       "ru": "Занятие для добровольцев Wikimedia",
       "en": "A Wikimedia volunteer workshop",
       "mustInclude": [
-        "volunteer",
-        "workshop"
+        "training",
+        "workshop",
+        "volunteer"
       ]
     },
     {
