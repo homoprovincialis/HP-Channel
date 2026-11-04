@@ -1,13 +1,8 @@
 name: Assign unique local article photographs
 
+# Historical one-time importer. Disabled to prevent accidental image rewrites.
+# For new images, prepare a separate reviewed PR and run check_site.py.
 on:
-  push:
-    branches:
-      - fix/unique-local-article-images
-    paths:
-      - .github/workflows/unique-article-images.yml
-      - Data/Assets/assign_unique_article_images.py
-      - Data/Assets/article-photo-map.json
   workflow_dispatch:
 
 permissions:
@@ -15,6 +10,7 @@ permissions:
 
 jobs:
   assign-photos:
+    if: ${{ false }} # retired: do not write images from an old snapshot
     runs-on: ubuntu-latest
     timeout-minutes: 40
     steps:
