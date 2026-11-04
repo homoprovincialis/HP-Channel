@@ -85,11 +85,11 @@
     },
     {
       "n": 18,
-      "query": "intitle:gavel",
-      "ru": "Судебный молоток как символ правосудия",
-      "en": "A judge's gavel as a symbol of justice",
+      "query": "intitle:courtroom",
+      "ru": "Зал судебного заседания",
+      "en": "A courtroom",
       "mustInclude": [
-        "gavel"
+        "courtroom"
       ],
       "onlyJpeg": true
     },
