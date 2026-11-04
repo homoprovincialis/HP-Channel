@@ -54,105 +54,176 @@
   "newImages": [
     {
       "n": 15,
-      "query": "community meeting people sitting around table discussion photograph",
+      "query": "intitle:meeting people",
       "ru": "Люди обсуждают общие вопросы за столом",
-      "en": "People holding a group discussion around a table"
+      "en": "People holding a group discussion around a table",
+      "mustInclude": [
+        "meeting",
+        "discussion"
+      ]
     },
     {
       "n": 16,
-      "query": "person signing consent form photograph",
+      "query": "intitle:consent",
       "ru": "Человек с письменным согласием на публикацию фотографии",
-      "en": "A person showing a written consent statement"
+      "en": "A person showing a written consent statement",
+      "mustInclude": [
+        "consent",
+        "signing"
+      ]
     },
     {
       "n": 17,
-      "query": "ancient philosophy books bookshelf photograph",
+      "query": "intitle:bookshelf",
       "ru": "Книги античных философов на полке",
-      "en": "Books by ancient philosophers on a bookshelf"
+      "en": "Books by ancient philosophers on a bookshelf",
+      "mustInclude": [
+        "bookshelf",
+        "books",
+        "library"
+      ]
     },
     {
       "n": 18,
-      "query": "justice scales photograph",
+      "query": "intitle:scales justice",
       "ru": "Весы как символ рассмотрения доказательств",
-      "en": "Scales used as a symbol of justice"
+      "en": "Scales used as a symbol of justice",
+      "mustInclude": [
+        "scales",
+        "justice"
+      ]
     },
     {
       "n": 19,
-      "query": "community workshop people sitting around table photograph",
+      "query": "intitle:workshop",
       "ru": "Участники открытой общественной встречи за столами",
-      "en": "People participating in a public workshop"
+      "en": "People participating in a public workshop",
+      "mustInclude": [
+        "workshop",
+        "meeting"
+      ]
     },
     {
       "n": 20,
-      "query": "students taking exam classroom photograph",
+      "query": "intitle:exam students",
       "ru": "Школьники выполняют письменное тестовое задание",
-      "en": "Students taking an exam"
+      "en": "Students taking an exam",
+      "mustInclude": [
+        "exam",
+        "students"
+      ]
     },
     {
       "n": 21,
-      "query": "students debate discussion photograph",
+      "query": "intitle:debate students",
       "ru": "Два студента участвуют в дебатах",
-      "en": "Two college students debating"
+      "en": "Two college students debating",
+      "mustInclude": [
+        "debate",
+        "discussion"
+      ]
     },
     {
       "n": 22,
-      "query": "people circle conversation photograph",
+      "query": "intitle:discussion people",
       "ru": "Люди разговаривают, сидя в кругу",
-      "en": "People sitting in a circle and talking"
+      "en": "People sitting in a circle and talking",
+      "mustInclude": [
+        "discussion",
+        "circle",
+        "conversation"
+      ]
     },
     {
       "n": 23,
-      "query": "volunteers disaster relief photograph",
+      "query": "intitle:volunteer relief",
       "ru": "Добровольцы помогают пострадавшим от наводнения",
-      "en": "Volunteers working at a flood relief event"
+      "en": "Volunteers working at a flood relief event",
+      "mustInclude": [
+        "volunteer",
+        "relief"
+      ]
     },
     {
       "n": 24,
-      "query": "airport immigration travelers queue photograph",
+      "query": "intitle:immigration airport",
       "ru": "Очередь пассажиров на иммиграционном контроле",
-      "en": "Travelers queuing for immigration at an airport"
+      "en": "Travelers queuing for immigration at an airport",
+      "mustInclude": [
+        "immigration",
+        "passport"
+      ]
     },
     {
       "n": 25,
-      "query": "abolition of slavery memorial Nantes photograph",
+      "query": "intitle:abolition slavery",
       "ru": "Мемориал отмены рабства во французском Нанте",
-      "en": "Memorial to the abolition of slavery in Nantes"
+      "en": "Memorial to the abolition of slavery in Nantes",
+      "mustInclude": [
+        "abolition",
+        "slavery"
+      ]
     },
     {
       "n": 26,
-      "query": "historic town hall council chamber",
+      "query": "intitle:chamber council",
       "ru": "Средневековый зал городского совета Таллина",
-      "en": "Medieval council chamber of Tallinn Town Hall"
+      "en": "Medieval council chamber of Tallinn Town Hall",
+      "mustInclude": [
+        "chamber",
+        "council"
+      ]
     },
     {
       "n": 27,
-      "query": "passport control airport photograph",
+      "query": "intitle:passport control",
       "ru": "Пункт паспортного контроля аэропорта Сингапура",
-      "en": "Arrival immigration area at Singapore Changi Airport"
+      "en": "Arrival immigration area at Singapore Changi Airport",
+      "mustInclude": [
+        "passport",
+        "immigration"
+      ]
     },
     {
       "n": 28,
-      "query": "CERN data center server racks photograph",
+      "query": "intitle:server racks",
       "ru": "Серверные стойки центра обработки данных CERN",
-      "en": "Server racks at CERN data center"
+      "en": "Server racks at CERN data center",
+      "mustInclude": [
+        "server",
+        "datacenter",
+        "data center"
+      ]
     },
     {
       "n": 29,
-      "query": "students in classroom learning photograph",
+      "query": "intitle:students classroom",
       "ru": "Ученики во время занятия в классе",
-      "en": "Students studying in a classroom"
+      "en": "Students studying in a classroom",
+      "mustInclude": [
+        "students",
+        "classroom"
+      ]
     },
     {
       "n": 30,
-      "query": "volunteers workshop training photograph",
+      "query": "intitle:volunteer workshop",
       "ru": "Занятие для добровольцев Wikimedia",
-      "en": "A Wikimedia volunteer workshop"
+      "en": "A Wikimedia volunteer workshop",
+      "mustInclude": [
+        "volunteer",
+        "workshop"
+      ]
     },
     {
       "n": 31,
-      "query": "person writing notes desk laptop photograph",
+      "query": "intitle:writing notes",
       "ru": "Человек читает и делает записи рядом с компьютером",
-      "en": "A person writing notes while working with a laptop"
+      "en": "A person writing notes while working with a laptop",
+      "mustInclude": [
+        "writing",
+        "notes"
+      ]
     }
   ]
 }
