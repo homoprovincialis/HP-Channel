@@ -1,2 +1,15 @@
-# HP-Channel
-Homo Provincialis Channel
+# HP Channel
+
+Философское СМИ Homo Provincialis.
+
+## Структура репозитория
+
+- `index.html`, `en.html` — главные страницы RU/EN.
+- `*.html` в корне — страницы разделов RU/EN.
+- `Articles/` — отдельные статьи и исследования в формате HTML.
+- `Videos/Video 1/` — TXT-сценарий первого видео и список источников кадров. Здесь нет видеофайлов.
+- `Data/Assets/` — общие стили и JavaScript.
+- `Data/Images/Images for Video/` — общая библиотека изображений и каталог.
+- `Data/Documents/Video Scripts/` — инструкции и шаблоны по подготовке видео.
+
+Каждая статья и её видеоверсия используют один и тот же утверждённый текст.
