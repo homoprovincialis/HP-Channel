@@ -85,12 +85,11 @@
     },
     {
       "n": 18,
-      "query": "intitle:scales of justice",
-      "ru": "Весы как символ рассмотрения доказательств",
-      "en": "Scales used as a symbol of justice",
+      "query": "intitle:gavel",
+      "ru": "Судебный молоток как символ правосудия",
+      "en": "A judge's gavel as a symbol of justice",
       "mustInclude": [
-        "scales",
-        "justice"
+        "gavel"
       ],
       "onlyJpeg": true
     },
@@ -207,12 +206,12 @@
     },
     {
       "n": 30,
-      "query": "intitle:training of trainers workshop",
+      "query": "intitle:training workshop disaster management",
       "ru": "Занятие для добровольцев Wikimedia",
       "en": "A Wikimedia volunteer workshop",
       "mustInclude": [
-        "training",
-        "workshop"
+        "workshop",
+        "training"
       ]
     },
     {
