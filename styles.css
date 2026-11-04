@@ -9,3 +9,13 @@
 .daily-feature-empty .kicker{margin-bottom:9px}
 .daily-feature-empty h2{font-size:clamp(26px,3vw,38px);margin:0 0 8px;line-height:1.2}
 .daily-feature-empty p{max-width:520px;margin:0;color:#666;font-size:16px}
+
+/* Section introduction and planned article cards */
+.intro-tags{font-size:12px;font-weight:700;letter-spacing:.11em;color:#9b2525;margin:0 0 22px}
+.planned-section{margin-top:54px}
+.planned-note{color:#666;margin:0 0 20px}
+.planned-grid{grid-template-columns:repeat(2,minmax(0,1fr));max-width:1050px}
+.planned-card h3{font-size:21px;line-height:1.3;margin:10px 0 8px}
+.planned-card .photo-credit{font-size:12px;line-height:1.5;color:#777;margin-top:14px}
+.photo-credit a{text-decoration:underline}
+@media(max-width:600px){.planned-grid{grid-template-columns:1fr}}
