@@ -90,7 +90,7 @@ def main():
             pattern=r'(<article class="preview-card" id="'+re.escape(slug)+r'">)'
             replacement=(r'\1<img loading="eager" class="photo" src="Data/Images/Images%20for%20Video/'
                          +str(n)+'.jpg" alt="'+html.escape(ru if language=="ru" else en,quote=True)+'">')
-            content,num=re.subn(pattern,lambda m:m.group(1)+replacement[2:],content)
+            content,num=re.subn(pattern,lambda m:m.group(1)+replacement.replace(r"\1","",1),content)
             if num!=1:raise RuntimeError(f"Expected exactly one card {slug} in {page.name}, found {num}")
         changes[page]=content
     for n,(data,meta,slug,ru,en) in downloaded.items():
