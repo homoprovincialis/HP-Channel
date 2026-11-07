@@ -1,0 +1,32 @@
+name: Add four research article photographs
+
+on:
+  push:
+    branches: [feature/four-research-article-photos]
+    paths:
+      - .github/workflows/four-research-photos.yml
+      - Data/Assets/add_four_research_photos.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install image decoder
+        run: python3 -m pip install Pillow
+      - name: Download four Commons photos and update pages
+        run: python3 Data/Assets/add_four_research_photos.py
+      - name: Commit verified files and article references
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add research.html research-en.html Articles/ 'Data/Images/Images for Video/'
+          if ! git diff --cached --quiet; then
+            git commit -m "Add four distinct local article photos and attribution"
+            git push
+          fi
