@@ -92,7 +92,7 @@ HP CHANNEL — КАТАЛОГ ИЗОБРАЖЕНИЙ ДЛЯ ВИДЕО
     Локальный файл: 14.jpg
     Источник: https://commons.wikimedia.org/wiki/Special:FilePath/Dcentre%20racks.jpg?width=900
 
-СЛЕДУЮЩИЙ СВОБОДНЫЙ НОМЕР: 32
+СЛЕДУЮЩИЙ СВОБОДНЫЙ НОМЕР: 36
 
 При добавлении нового изображения: убедиться, что оно уже не есть в каталоге; дать следующий номер; записать, что на нём видно, для каких тем подходит, где используется, источник и условия использования. Не менять номера существующих изображений.
 
@@ -234,3 +234,38 @@ HP CHANNEL — КАТАЛОГ ИЗОБРАЖЕНИЙ ДЛЯ ВИДЕО
     Автор: JESHOOTS.COM jeshoots
     Лицензия: CC0
     Условия: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+
+ФОТОГРАФИИ ДЛЯ ЧЕТЫРЁХ ИССЛЕДОВАНИЙ
+
+32 - Добровольцы помогают людям
+    Локальный файл: 32.jpg
+    Оригинал: File:US Navy 111214-N-GO535-026 A Sailor distribute Christmas presents to homebound and elderly people.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:US_Navy_111214-N-GO535-026_A_Sailor_distribute_Christmas_presents_to_homebound_and_elderly_people.jpg
+    Автор: U.S. Navy photo by Mass Communication Specialist 2nd Class Ron Kuzlik
+    Лицензия: Public domain
+    Условия: 
+
+33 - Подсудимые на Нюрнбергском процессе
+    Локальный файл: 33.jpg
+    Оригинал: File:Defendants Göring, Dönitz, and Hess conferring Nuremberg Trials.jpeg
+    Источник: https://commons.wikimedia.org/wiki/File:Defendants_G%C3%B6ring,_D%C3%B6nitz,_and_Hess_conferring_Nuremberg_Trials.jpeg
+    Автор: United States Army Signal Corps photographer
+    Лицензия: Public domain
+    Условия: 
+
+34 - Фреска Рафаэля «Афинская школа»
+    Локальный файл: 34.jpg
+    Оригинал: File:"The School of Athens" by Raffaello Sanzio da Urbino.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg
+    Автор: Raphael
+    Лицензия: Public domain
+    Условия: 
+
+35 - Группа добровольцев
+    Локальный файл: 35.jpg
+    Оригинал: File:Gardens in the Fenway - neighborhood youth volunteer to help older group - no pay - DPLA - 39bdf90f567fef02d5c204488e48a551.jpg
+    Источник: https://commons.wikimedia.org/wiki/File:Gardens_in_the_Fenway_-_neighborhood_youth_volunteer_to_help_older_group_-_no_pay_-_DPLA_-_39bdf90f567fef02d5c204488e48a551.jpg
+    Автор: Halberstadt, Ernst, 1910-1987
+    Лицензия: Public domain
+    Условия: 
